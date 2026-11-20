@@ -1,2 +1,0 @@
-# veridion
-PoCSimulation
